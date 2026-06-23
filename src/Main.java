@@ -142,4 +142,6 @@ public class Main {
         Charset charset = StandardCharsets.UTF_8;
         return new PrintWriter(output, false, charset);
     }
+
+    //я случайно закомитил 2 и 3(бонусное задание) вместе потом не смог переименовать комит или разделить на два комита
 }
